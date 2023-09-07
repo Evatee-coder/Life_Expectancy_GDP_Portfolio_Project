@@ -25,6 +25,17 @@ To prepare and analyze data on GDP and life expectancy obtained from the World H
     What is the distribution of that life expectancy?
 
 4. An accompanying paragraph describing the following visualizations
+   
+Violin plot
+In the Violin plot of GDP, the United State of America and China exhibit a broader range, whereas Zimbabwe, Chile, and Mexico have more constrained ranges. On the other hand for life expectancy, most countries have narrowe ranges, except for Zimbabwe, that displays a broader range that spans from the upper 30s to the upper 60s. The Violin plot offers an additional way to visualize the distributions of individual elements and identify patterns in their shapes. This type of plot is widely favored due to its ability to showcase the distribution's shape in comparison to a traditional box plot.
+
+facet grid of scatter graphs
+To better understand the connection between GDP and Life expectancy in different countries, we created individual scatter plots for each nation using separate sections, as depicted in the figure above. It's evident that many countries display robust linear relationships with significant positive correlations between GDP and life expectancy. However, China's plot takes on an exponential curve. By examining each country's unique plot of GDP against life expectancy, we observe that Zimbabwe notably maintains a strong positive correlation for life expectancies exceeding 50 years. For life expectancies less than 50 years, the relationship becomes less distinct.
+
+
+facet grid of line graphs
+Likewise, we directed our attention towards the examination of GDP trends using faceted line plots, organized by country. As depicted in the separate plots presented above, each country has their own y axis, which makes it easier to compare the shape of their GDP over the years using their corresponsing scale. This approach enhances the clarity in discerning the distinctive shapes of GDP evolution across the represented countries. Through this method, the overarching trend becomes evident: all countries have undergone positive growth in their GDP. In the chart above, the other country's GDP growth looked modest compared to China and the US, but all of the countries did experience growth from the year 2000.
+
 
 
 5. Conclusions
