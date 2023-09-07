@@ -2,10 +2,10 @@
 
 Topic: On The Relation Between GDP and Life Expectancy: Unraveling the Global Trends and Disparities
 
-1. Introduction To Data Research
+1. Introduction To Data Research:
 This study examine the relationship between countries Gross Domestic Product (GDP) and its life expectancy, exploring the factors, patterns, and disparities that shape the health and prosperity of nations. Through comprehensive analysis and data-driven insights, this research aims to identify the relationship between the GDP and life expectancy of six countries. Secondly, the study uncovers the complex interplay between economic development and the well-being of selected countries populations.
 
-2. Background
+2. Background:
 Gross Domestic Product (GDP) is a key economic indicator that measures the total monetary value of all goods and services produced within a country's borders within a specific time period, typically annually or quarterly. It is used to assess the economic performance and the size of an economy. On the other hand, Life expectancy is a statistical measure that estimates the average number of years a person or a group of people can expect to live, based on current mortality rates and other demographic factors. It is typically expressed as the number of years one can expect to live at birth, assuming that current mortality rates remain constant throughout one's lifetime. In other words, life expectancy provides an estimate of the average lifespan for a given population.
 
 *Data sources*
